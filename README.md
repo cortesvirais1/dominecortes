@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -254,4 +255,3 @@ Entrega rápida • Conteúdo direto • Suporte via Telegram
 
 </body>
 </html>
-# dominecortes
